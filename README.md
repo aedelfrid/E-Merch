@@ -17,10 +17,12 @@
         
   ## Usage
         
-    Using E-Merch may be accomplished via Insomnia (or your API development app of choice). A screenshot of the possble routes can be viewed below, and a link to a video walkthrough will also be included.  
+    Using E-Merch may be accomplished via Insomnia (or your API development app of choice). A screenshot of the possble routes can be viewed below, and a link to a video walkthrough will also be included.
+
+  <img src="./routes.png">  
 
   ## License
-  
+
   [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit/)
       
   https://opensource.org/license/mit/
