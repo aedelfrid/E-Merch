@@ -21,8 +21,6 @@
 
   <img src="./routes.png">  
 
-    <img src="https://photos.google.com/search/_tra_/photo/AF1QipMM9iikq29GUM8geuTXs7rkkPEHYogiVOFyTZ5t">
-
   ## License
 
   [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit/)
