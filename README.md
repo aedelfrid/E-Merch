@@ -19,6 +19,8 @@
         
     Using E-Merch may be accomplished via Insomnia (or your API development app of choice). A screenshot of the possble routes can be viewed below, and a link to a video walkthrough will also be included.  
 
+    <img src="https://photos.google.com/search/_tra_/photo/AF1QipMM9iikq29GUM8geuTXs7rkkPEHYogiVOFyTZ5t">
+
   ## License
   
   [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/license/mit/)
