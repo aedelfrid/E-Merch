@@ -95,7 +95,7 @@ router.put('/:id', async (req, res) => {
         });
       }
 
-      return res.json(product);
+      return res.json(`Product has been updated!`);
     })
     .catch((err) => {
       // console.log(err);
