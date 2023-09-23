@@ -20,7 +20,10 @@
         
     Using E-Merch may be accomplished via Insomnia (or your API development app of choice). A screenshot of the possble routes can be viewed below, and a link to a video walkthrough will also be included.
 
-  <img src="./routes.png">  
+  <img src="./routes.png">
+
+  https://youtu.be/CNIXYE5J2U0  
+  
 
   ## License
 
