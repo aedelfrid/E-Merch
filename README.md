@@ -13,7 +13,8 @@
         
   ## Installation
         
-    You may install E-Merch by cloning the GitHub repo, navigating to your install folder, installing dependencies with "npm install" and if so desired running "npm run seed" to pre-populate the database.  
+    You may install E-Merch by cloning the GitHub repo, navigating to your install folder, installing dependencies with "npm install" and if so desired running "npm run seed" to pre-populate the database. Lastly, ensure you have a a dotenv file with your MYSQL       
+    credentials.
         
   ## Usage
         
